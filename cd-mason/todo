@@ -1,0 +1,19 @@
+This is my scrap-book for yet to be implemented ideas:
+
+- allow output parsers to be freed / replaced
+
+- transparent conversion of mp3/ogg files
+
+- recursive addition of directories
+
+- changing of CD-tree structure (using graft points)
+
+- nicer preferences (auto-detection of burner devices using hal)
+
+- implement mkisofs-options!
+
+- rework i18n
+
+- send abort command when aborting
+
+- more error detection
